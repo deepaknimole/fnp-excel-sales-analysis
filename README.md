@@ -11,7 +11,7 @@ Is project me **Kaggle ke FNP e-commerce dataset** ka use karke customer purchas
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](FNP%20Dashboard.png)
 
 ---
 
@@ -53,4 +53,4 @@ Is project me **Kaggle ke FNP e-commerce dataset** ka use karke customer purchas
 
 ## 📁 Repository Files
 - `fnp_sales_analysis.xlsx` : Complete Excel workbook jisme raw data sheets, working Pivot calculations, aur dynamic dashboard integrated hai.
-- `dashboard.png` : High-resolution preview of the finalized dashboard.
+- `FNP Dashboard.png` : High-resolution preview of the finalized dashboard.
